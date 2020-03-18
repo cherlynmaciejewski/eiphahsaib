@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://theihaurie.txing.tk/sitemap.xml
